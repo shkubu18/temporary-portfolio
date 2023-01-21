@@ -19,7 +19,7 @@ const About = () => {
           <div>
             <p>For the past seven months, I've been teaching myself web development and making sure to learn something new every day.
               In the last seven months, I have gained some knowledge in HTML, CSS, and Javascript by doing some projects.
-              At this point, I am concentrating on improving my knowledge in React and PHP technologies.</p>
+              At this point, I am concentrating on improving my knowledge in React technologie.</p>
           </div>
         </div>
       </div>

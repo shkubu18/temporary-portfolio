@@ -12,10 +12,10 @@ const Home = () => {
           Davit Shkubuliani
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a Full Stack Developer.
+          I'm a Front-End Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          I am a beginner full-stack web developer. Around seven month ago I was interested and start learning web development by myself.
+          I am a beginner front-end web developer. Around seven month ago I was interested and start learning web development by myself.
           From that day for now I devote my all time and make sure to learn new things every day.
         </p>
         <div>
